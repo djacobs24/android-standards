@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Screen margins -->
+    <dimen name="top_screen_margin">40dp</dimen>
+    <dimen name="bottom_screen_margin">40dp</dimen>
+    <dimen name="start_screen_margin">10dp</dimen>
+    <dimen name="end_screen_margin">10dp</dimen>
+
+    <!-- Object margins -->
+    <dimen name="object_extra_small_margin">5dp</dimen>
+    <dimen name="object_small_margin">10dp</dimen>
+    <dimen name="object_medium_margin">20dp</dimen>
+    <dimen name="object_large_margin">40dp</dimen>
+    <dimen name="object_extra_large_margin">80dp</dimen>
+
+    <!-- Object text sizes -->
+    <dimen name="text_edit_text_size">18sp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+    <dimen name="switch_text_size">18sp</dimen>
+    <dimen name="checkbox_text_size">18sp</dimen>
+    <dimen name="radio_button_text_size">18sp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="extra_small_text_size">8sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="medium_text_size">18sp</dimen>
+    <dimen name="large_text_size">24sp</dimen>
+    <dimen name="extra_large_text_size">36sp</dimen>
+
+</resources>
+   
