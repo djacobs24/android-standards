@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Splash screen -->
+    <style name="splash_screen" parent="AppTheme.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+    <!-- Text -->
+    <style name="extra_small_text">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">@dimens/extra_small_text</item>
+    </style>
+
+    <style name="small_text">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">@dimens/small_text</item>
+    </style>
+
+    <style name="medium_text">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">@dimens/medium_text</item>
+    </style>
+
+    <style name="large_text">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">@dimens/large_text</item>
+    </style>
+
+    <style name="extra_large_text">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">@dimens/extra_large_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Spinner -->
+    <style name="spinner" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">@dimens/medium_text</item>
+    </style>
+
+    <!-- Switch -->
+    <style name="switch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/swith_clicked</item>
+        <item name="colorSwitchThumbNormal">@color/switch_unclicked</item>
+        <item name="android:colorForeground">@color/switch_foreground</item>
+    </style>
+
+</resources>
