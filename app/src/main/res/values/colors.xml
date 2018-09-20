@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Theme -->
+    <color name="primary">#ffffff</color>
+    <color name="primary_dark">#ffffff</color>
+    <color name="accent">#ffffff</color>
+
+    <!-- Common -->
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="light_grey">#ededed</color>
+    <color name="grey">#c0c0c0</color>
+    <color name="dark_grey">#575757</color>
+    <color name="black">#000000</color>
+
+    <!-- Buttons -->
+    <color name="button_unclicked_background">#ffffff</color>
+    <color name="button_clicked_background">#ffffff</color>
+    <color name="button_text">#ffffff</color>
+
+</resources>
