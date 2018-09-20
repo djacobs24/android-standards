@@ -15,9 +15,15 @@
     <color name="dark_grey">#575757</color>
     <color name="black">#000000</color>
 
-    <!-- Buttons -->
+    <!-- Button -->
     <color name="button_unclicked_background">#ffffff</color>
     <color name="button_clicked_background">#ffffff</color>
     <color name="button_text">#ffffff</color>
+
+    <!-- Switch -->
+    <color name="switch_unclicked">#ffffff</color>
+    <color name="switch_clicked">#ffffff</color>
+    <color name="switch_text">#ffffff</color>
+    <color name="switch_foreground">#ffffff</color>
 
 </resources>
