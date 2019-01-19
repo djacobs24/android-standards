@@ -26,4 +26,7 @@
     <color name="switch_text">#ffffff</color>
     <color name="switch_foreground">#ffffff</color>
 
+    <!-- Recycler View Item -->
+    <color name="recycler_view_item_background">#ffffff</color>
+
 </resources>
