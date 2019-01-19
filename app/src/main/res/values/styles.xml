@@ -19,37 +19,10 @@
         <item name="android:windowBackground">@drawable/splash_screen</item>
     </style>
 
-    <!-- Text -->
-    <style name="extra_small_text">
-        <item name="android:textColor">@color/primary</item>
-        <item name="android:textSize">@dimens/extra_small_text</item>
-    </style>
-
-    <style name="small_text">
-        <item name="android:textColor">@color/primary</item>
-        <item name="android:textSize">@dimens/small_text</item>
-    </style>
-
-    <style name="medium_text">
-        <item name="android:textColor">@color/primary</item>
-        <item name="android:textSize">@dimens/medium_text</item>
-    </style>
-
-    <style name="large_text">
-        <item name="android:textColor">@color/primary</item>
-        <item name="android:textSize">@dimens/large_text</item>
-    </style>
-
-    <style name="extra_large_text">
-        <item name="android:textColor">@color/primary</item>
-        <item name="android:textSize">@dimens/extra_large_text</item>
-        <item name="android:textStyle">bold</item>
-    </style>
-
     <!-- Spinner -->
     <style name="spinner" parent="@android:style/Widget.TextView.SpinnerItem">
         <item name="android:textColor">@color/primary</item>
-        <item name="android:textSize">@dimens/medium_text</item>
+        <item name="android:textSize">@dimens/spinner_text_size</item>
     </style>
 
     <!-- Switch -->
@@ -57,6 +30,7 @@
         <item name="colorControlActivated">@color/swith_clicked</item>
         <item name="colorSwitchThumbNormal">@color/switch_unclicked</item>
         <item name="android:colorForeground">@color/switch_foreground</item>
+        <item name="android:textSize">@dimens/switch_text_size</item>
     </style>
 
 </resources>
